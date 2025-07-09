@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Consonnm
 
-#### 🧑‍💻 A Computer Science student at FZU and will pursue a Master's degree at XMU
+#### 🧑‍💻 A Computer Science graduate from FZU, pursuing a Master's degree at the Mac Lab, XMU.
 
 #### 📫 How to reach me: Consonnm@gmail.com
 
