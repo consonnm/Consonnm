@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Consonnm
 
-#### 🧑‍💻 A Computer Science graduate from FZU, pursuing a Master's degree at the Mac Lab, XMU.
+#### 🧑‍💻 M.S. in Computer Science at Xiamen University | B.S. from Fuzhou University.
 
 #### 📫 How to reach me: Consonnm@gmail.com
 
